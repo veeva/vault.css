@@ -1,0 +1,15 @@
+{
+	"name": "@veeva/vault.css",
+	"version": "1.0.0",
+	"description": "Vault CSS",
+	"homepage": "https://github.com/veeva/vault.css",
+	"license": "Apache-2.0",
+	"main": "vault.css",
+	"files": [
+		"vault.css"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/veeva/vault.css.git"
+	}
+}
